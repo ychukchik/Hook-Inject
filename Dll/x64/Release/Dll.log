@@ -1,0 +1,12 @@
+﻿  Assembling hook.asm...
+  pch.cpp
+  dllmain.cpp
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\dllmain.cpp(291,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\dllmain.cpp(308,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MyDLL.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\dllmain.cpp(261): warning C4715: RecieveParameters: значение возвращается не при всех путях выполнения
+  All 114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Dll.vcxproj -> D:\Univer_files\6sem\TRSPO\LAB2\Dll\x64\Release\Dll.dll

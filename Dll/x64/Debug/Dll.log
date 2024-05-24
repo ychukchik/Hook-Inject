@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\dllmain.cpp(281,83): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\dllmain.cpp(298,79): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\dllmain.cpp(250): warning C4715: recieve_parameters: значение возвращается не при всех путях выполнения
+  Dll.vcxproj -> D:\Univer_files\6sem\TRSPO\LAB2\Dll\x64\Debug\Dll.dll

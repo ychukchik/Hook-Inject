@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MyDLL.cpp
+dllmain.obj : error LNK2001: неразрешенный внешний символ _DetourTransactionBegin@0.
+dllmain.obj : error LNK2001: неразрешенный внешний символ _DetourUpdateThread@4.
+dllmain.obj : error LNK2001: неразрешенный внешний символ _DetourAttach@8.
+dllmain.obj : error LNK2001: неразрешенный внешний символ _DetourTransactionCommit@0.
+dllmain.obj : error LNK2001: неразрешенный внешний символ _DetourFindFunction@8.
+D:\Univer_files\6sem\TRSPO\LAB2\Dll\Release\Dll.dll : fatal error LNK1120: неразрешенных внешних элементов: 5
